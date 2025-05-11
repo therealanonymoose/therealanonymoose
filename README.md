@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a high school student with a strong passion for computer science
+I'm a high school student with a strong passion for computer science  
 I'm fluent in python and java and currently learning html
 
 <!--
